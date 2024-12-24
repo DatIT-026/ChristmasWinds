@@ -1,2 +1,2 @@
 # Christmas Winds (Completed ✅)
-This repository is under the [MIT License](LICENSE) and is free to use for all users.
+This repository is licensed under the [MIT License](LICENSE) and is available for free use.
